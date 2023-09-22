@@ -8,6 +8,7 @@ export default {
   component: () => {
     return (
       <div>
+        config.i18n.fallbacks = [I18n.default_locale]
         <div>
           <Image
             src={`/static/images/logos/horizontal-light.svg`}
