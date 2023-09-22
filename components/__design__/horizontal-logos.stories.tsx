@@ -8,14 +8,14 @@ export default {
   component: () => {
     return (
       <div>
-        {/* <div>
-        <Image
+        <div>
+          <Image
             src={`/static/images/logos/horizontal-light.svg`}
             alt="Node.js"
             width={267}
             height={80}
           />
-      </div> */}
+        </div>
         <div>
           <Image
             src={`/static/images/logos/horizontal-dark.svg`}
